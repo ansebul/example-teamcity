@@ -14,6 +14,6 @@ public class Welcomer{
 		return "something in the way";
 	}
 	public String sayFakeNews(){
-		return "Who is hunter Biden?";
+		return "Who is hunter?";
 	}
 }
